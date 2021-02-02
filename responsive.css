@@ -25,6 +25,7 @@
     /* Tambahkan CSS untuk menu-icon */
     .menu-icon{
         display: block;
+        float: right;
     }
     .btn{
         width: 100%;
